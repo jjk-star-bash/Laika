@@ -1,4 +1,4 @@
-   "This project is in relation to the Lehigh University Rocketry Team (LURA). More info on my contributions at joshuakraus.com/laika-1"
+   "This project is in relation to the Lehigh University Rocketry Team (LURA). More info on my contributions at http://www.joshuakraus.com/laika-1"
    LEHIGH UNIVERSITY AFILIATED NOT OWNED, OPEN-SOURCE FOR CITED DERIVATIVES 
 
    PLEASE SITE ORCID: 0009-0006-3163-3312

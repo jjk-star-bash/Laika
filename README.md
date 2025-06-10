@@ -1,1 +1,25 @@
-This project is in relation to the Lehigh University rocketry team. More info on my contributions at joshuakraus.com
+   "This project is in relation to the Lehigh University Rocketry Team (LURA). More info on my contributions at joshuakraus.com/laika-1"
+   LEHIGH UNIVERSITY AFILIATED NOT OWNED, OPEN-SOURCE FOR CITED DERIVATIVES 
+
+   PLEASE SITE ORCID: 0009-0006-3163-3312
+
+   CC-BY 2025
+
+
+
+   Copyright 2025 JOSHUA KRAUS
+
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.

@@ -12,7 +12,7 @@
 # MISSION OVERVIEW
 # =============================================================================
 #
-# Laika is a DOGZILLA S1 quadruped robot dog integrated as a rocket payload.
+# Laika is a quadruped robot dog integrated as a rocket payload.
 # On pin-pull (power-on), this daemon runs automatically via systemd and
 # executes the full autonomous mission sequence without human intervention.
 #
@@ -100,6 +100,8 @@
 #     https://github.com/OpenThermal/libseek-thermal
 #   OpenCV -- Computer vision library
 #     https://opencv.org
+#   Anthropic -- Claude, who helped me put all the noise
+#      togther as one unified program. Thank you.
 # =============================================================================
 
 import sys
